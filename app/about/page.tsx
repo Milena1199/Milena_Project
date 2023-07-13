@@ -1,0 +1,9 @@
+export default function About() {
+  return <div>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur massa urna, rhoncus in leo eu, placerat ultrices nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut vulputate lorem id turpis luctus molestie. Sed gravida venenatis neque eget accumsan. Pellentesque auctor lacus et nisi dapibus, sed luctus lorem laoreet. Donec aliquam nulla et enim accumsan, et dapibus urna condimentum. Phasellus vitae ligula lacinia, commodo arcu in, laoreet justo. Quisque blandit molestie dui eget aliquam.
+
+Quisque eu finibus leo, vitae efficitur est. Nunc a erat sagittis, ultricies leo ut, pharetra felis. Proin enim mauris, luctus id lacinia et, tempor non turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus porta sapien lectus, sed efficitur felis molestie et. Mauris nulla dui, cursus non luctus vitae, consectetur vitae urna. Cras vel eros nisi. Etiam scelerisque et massa et egestas. Sed dignissim, sem id laoreet rutrum, lectus ante rutrum velit, ac ullamcorper magna felis eget justo. Nunc gravida ornare nisl, eget pretium velit vulputate ut. Nam posuere consectetur lacus eget finibus. Quisque feugiat hendrerit dolor sed viverra. Nulla orci sem, ultrices eu neque quis, gravida suscipit velit. Fusce vestibulum sapien eget iaculis lobortis. Proin imperdiet ultrices tempus. Vivamus nec augue eget turpis facilisis tincidunt.
+
+Vestibulum ac turpis mi. Nulla tincidunt eleifend tincidunt. Donec imperdiet lacinia laoreet. Vivamus enim neque, rutrum nec orci rutrum, volutpat tristique leo. Praesent sagittis aliquam tortor in maximus. Etiam malesuada arcu sed faucibus vehicula. Vivamus luctus massa id nunc vulputate sodales ut consectetur sem.
+  </div>;
+}
